@@ -4,7 +4,7 @@
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{Junseo5}"/>
 </a>
-<div style="text-align: left;"> 
+<!-- <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💻 Portfolio </h2>
     <a href="https://junseo5.com" target="_blank">https://junseo5.com</a>
-</div>
+</div> -->
