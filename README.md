@@ -4,7 +4,6 @@
 
 **Building AI-assisted creative tools and production-ready desktop software.**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-junseo5.com-111827?style=flat-square&logo=vercel&logoColor=white)](https://junseo5.com)
 [![Email](https://img.shields.io/badge/Email-junseo5.dev%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:junseo5.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Junseo5-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Junseo5)
 
@@ -14,11 +13,11 @@
 
 ## About
 
-I build across the full stack, with a focus on AI-first product workflows, desktop app architecture, and media-heavy interfaces. My current flagship project is **OpenReelio**, a prompt-driven AI video editor for Shorts and long-form creators.
+I build across the full stack, with a focus on AI-first workflows, desktop app architecture, and media-heavy interfaces.
 
 - Currently leading: [openreelio/openreelio](https://github.com/openreelio/openreelio)
 - Main stack: TypeScript, React, Rust, Tauri, Python
-- Interests: video editing systems, AI agents, automation, release engineering
+- Interests: video editing systems, AI agents, automation
 - Contact: [junseo5.dev@gmail.com](mailto:junseo5.dev@gmail.com)
 
 ## Featured Project: OpenReelio
@@ -35,17 +34,9 @@ I build across the full stack, with a focus on AI-first product workflows, deskt
 
 </div>
 
-**OpenReelio** is an AI-powered desktop video editor built around prompt-first editing, a non-linear timeline, agent-driven workflows, and a Tauri/Rust backend.
+**OpenReelio** is a prompt-driven AI video editor for Shorts and long-form creators. It combines a React/TypeScript frontend with a Tauri/Rust desktop backend, FFmpeg-based media workflows, automated CI, and desktop release pipelines.
 
-| Area | What it covers |
-| --- | --- |
-| Product | AI video editor for Shorts and long-form creation |
-| Desktop | Tauri 2, Rust backend, React + TypeScript frontend |
-| Media | FFmpeg pipeline, timeline editing, effects, audio, captions |
-| Automation | CI, release workflows, signed update manifest, release assets |
-| Quality | Unit tests, Rust checks, sharded frontend test workflow |
-
-**Links:** [Repository](https://github.com/openreelio/openreelio) · [Website](https://openreelio.com) · [Latest Release](https://github.com/openreelio/openreelio/releases/latest)
+[Repository](https://github.com/openreelio/openreelio) · [Website](https://openreelio.com) · [Latest Release](https://github.com/openreelio/openreelio/releases/latest)
 
 ## Tech Stack
 
@@ -64,16 +55,6 @@ I build across the full stack, with a focus on AI-first product workflows, deskt
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 </div>
-
-## Selected Work
-
-| Project | Description | Stack |
-| --- | --- | --- |
-| [OpenReelio](https://github.com/openreelio/openreelio) | Prompt-driven AI video editor with desktop releases and CI/CD automation | TypeScript, React, Rust, Tauri |
-| [Portfolio](https://github.com/Junseo5/Portfolio) | Personal portfolio site | HTML |
-| [Discord_R_Chatbot](https://github.com/Junseo5/Discord_R_Chatbot) | Open-sourced Discord chatbot from a real service, with Minecraft integration support | Python |
-| [django_login_module](https://github.com/Junseo5/django_login_module) | Portable Django authentication module | Python, Django |
-| [R_Chat_Minecraft](https://github.com/Junseo5/R_Chat_Minecraft) | Minecraft plugin integration for the R Chat ecosystem | Java |
 
 ## GitHub
 
