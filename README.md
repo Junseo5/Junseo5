@@ -1,3 +1,4 @@
+<!--
 <div align="center">
 
 # Junseo Song / 송준서
@@ -10,7 +11,7 @@
 </div>
 
 ---
-
+-->
 ## About
 
 I build across the full stack, with a focus on AI-first workflows, desktop app architecture, and media-heavy interfaces.
